@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1712351265 source:c:\users\david sipac\desktop\universidad\tercer semestre\programación 1\juegos\buscaminas\src\tablero.cpp
+	"Tablero.h"
+	<sstream>
+	<iostream>
+
+1712353177 c:\users\david sipac\desktop\universidad\tercer semestre\programación 1\juegos\buscaminas\include\tablero.h
+	<iostream>
+	<vector>
+	"Celda.h"
+
+1712353177 source:c:\users\david sipac\desktop\universidad\tercer semestre\programación 1\juegos\buscaminas\src\juego.cpp
+	"Juego.h"
+	<fstream>
+	<unistd.h>
+
+1712353177 c:\users\david sipac\desktop\universidad\tercer semestre\programación 1\juegos\buscaminas\include\juego.h
+	"Tablero.h"
+
+1712351514 source:c:\users\david sipac\desktop\universidad\tercer semestre\programación 1\juegos\buscaminas\src\celda.cpp
+	"Celda.h"
+	<iostream>
+
+1712353177 c:\users\david sipac\desktop\universidad\tercer semestre\programación 1\juegos\buscaminas\include\celda.h
+
+1712353177 source:c:\users\david sipac\desktop\universidad\tercer semestre\programación 1\juegos\buscaminas\main.cpp
+	<iostream>
+	<unistd.h>
+	"Juego.h"
+	"Config.h"
+
+1712345064 source:c:\users\david sipac\desktop\universidad\tercer semestre\programación 1\juegos\buscaminas\src\config.cpp
+	"config.h"
+	<iostream>
+	<unistd.h>
+	"Config.h"
+
+1712345064 c:\users\david sipac\desktop\universidad\tercer semestre\programación 1\juegos\buscaminas\include\config.h
+
